@@ -40,7 +40,3 @@ Navegación por hash entre Inicio, Juego y Resultados.
 
 Ranking persistente almacenado en la base de datos.
 
-
-
-Uso
-El proyecto está orientado a fines académicos. Puede modificarse y reutilizarse citando la fuente.
