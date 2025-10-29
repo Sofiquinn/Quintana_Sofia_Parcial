@@ -1,4 +1,5 @@
 Descripción
+
 Plataforma de trivia web con prefijo sq_. Permite jugar una partida de 15 preguntas, validar respuestas en tiempo real y registrar un ranking persistente.
 Tecnologías
 Frontend: HTML, CSS, JavaScript (router por hash, temporizador, puntaje).
